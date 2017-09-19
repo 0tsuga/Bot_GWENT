@@ -4,7 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 from telegram.ext import MessageHandler, Filters
 from telegram.ext import Updater
-updater = Updater(token="343018809:AAHuNSYOduBbShWDkYHUoMY7BPk0wseboC0")
+updater = Updater(token="Token")###INSIRA UM TOKEN
 
 
 
